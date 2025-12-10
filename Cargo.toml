@@ -1,7 +1,10 @@
 [package]
 name = "canutils-lib"
+description = "A collection of types for working with CAN bus data"
+license = "MIT OR Apache-2.0"
 version = "0.1.0"
 edition = "2024"
+repository = "https://github.com/JMANN240/canutils-lib"
 
 [dependencies]
 ux = "0.1.6"
